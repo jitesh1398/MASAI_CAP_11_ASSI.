@@ -1,0 +1,30 @@
+
+#peo {
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    margin-left: 45px;
+    margin-right: 45px;
+    
+}
+.de > p + img {
+    width: 50%;
+    margin-top: -19px;
+}
+.de > p {
+    color: grey;
+   font-size: large;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   margin-top: -18px;
+}
+.de { padding-top: 8px;
+    box-shadow: 1px 1px 3px 2px grey;
+    border-radius: 10px;
+    
+}
+.de > h4 {
+    margin-top: 5px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
